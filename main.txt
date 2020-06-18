@@ -1,0 +1,1 @@
+jest godzina 19.09
